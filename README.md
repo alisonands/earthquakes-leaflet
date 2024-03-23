@@ -1,7 +1,7 @@
 # USGS Earthquake Visualization
 
 ## Summary
-The United States Geological Survey (USGS) is interested in building a new set of tools to visualize their earthquake data. The goal is to provide meaningful visualizations that can educate the public and government organizations about issues facing our planet. This challenge involves creating an earthquake visualization using Leaflet.
+The [United States Geological Survey (USGS)](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) is interested in building a new set of tools to visualize their earthquake data. The goal is to provide meaningful visualizations that can educate the public and government organizations about issues facing our planet. This challenge involves creating an earthquake visualization using Leaflet.
 
 ## Tools and Languages Used
 - HTML
