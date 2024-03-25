@@ -10,14 +10,7 @@ let myMap = L.map("map", {
 // coordinates
 coords = []
 d3.json(url).then(function(data){
-    console.log(data)
-    // console.log(data.features[0].geometry.coordinates)
-    // data.features.forEach((element) => console.log([element.geometry.coordinates[0], element.geometry.coordinates[1]]))
-
-    // color scale function (value = data.features[0].coordinates[2])
     function getColor(value) {
-        // for (let i = 0; i < value; i++){
-        //     let color = "";
             if (value > 90){
                 color = "#FF0000";
                 return color;
